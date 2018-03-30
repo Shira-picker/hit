@@ -1,0 +1,143 @@
+body {
+    direction: rtl;
+    background:center no-repeat top;
+    background-image: url('../pexels-photo-434337.jpeg');
+    
+}   
+
+
+
+
+{
+    display: inline-flex;
+}
+     
+#container {
+  
+    width: 960px;
+    margin: 0 auto;
+}
+#ABC    {
+
+    margin:30px;
+
+ }
+
+ul{
+    list-style:none;
+    
+} ul  {
+            margin-right:250px;
+    
+}
+
+   ul li {
+        font-family: Calibri;
+        font-weight: bold;
+        background: center;
+        border-radius: 10px;
+        display: block;
+        background-color: palevioletred;
+        color: white;
+        width: 120px;
+        height: 30px;
+        padding-top: 10px;
+        text-decoration: none;
+        text-align: center;
+        display: inline-block;
+        float: right;
+    }
+
+      
+h1{
+
+    font-size: 60px;
+    background-position:center;
+    font-family: Calibri;
+    color: cornflowerblue;
+    text-align: center;
+  
+}
+form{
+    
+     margin:200px;
+    font-family:Calibri;
+    font-size: 20px;
+    color:steelblue;
+    opacity:0.9;
+    width:160px;
+    height:170px;
+
+}
+form:first-line{
+    font-size:50px;
+}
+
+h2 {
+    font-size: 50px;
+    text-align: center;
+    color: darkblue;
+    font-family: Calibri;
+    color: darkslateblue;
+   
+}
+
+
+
+h3 {
+    font-size: 40px;       
+    
+    color: blue;
+    font-family: Calibri;
+    color: darkslateblue;
+    text-align: center;
+}
+p {
+    font-size: 20px;
+    text-align: center;
+    font-family: Calibri;
+    color: darkslateblue;
+    font-weight:bold;
+   
+}
+h2::first-letter {
+    color: darkslateblue;
+    font-size: 55px;
+    text-align:right;
+}
+
+div#ABB h2 {
+    text-align: center;
+}
+
+
+
+
+.fa:link {
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+}
+
+.fa:visited {
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+}
+
+.fa:hover {
+    text-decoration: underline;
+    background-color: red;
+    color: yellow;
+}
+
+.fa:active {
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+} 
+.fa-facebook{
+    background: #ffffff;
+    color: orange;
+  
+}
